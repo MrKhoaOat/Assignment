@@ -1,0 +1,12 @@
+.Textfield {
+    margin: 0 auto;
+    justify-content: center;
+    align-content: center;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.err h5 {
+    color:red;
+    font-size: smaller;
+}

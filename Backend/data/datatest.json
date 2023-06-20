@@ -1,0 +1,70 @@
+[
+    {
+    "prod_name": "Banana7",
+    "prod_desc": "กล้วยไข่",
+    "prod_price": 8,
+    "prod_brand": "CP",
+    "prod_type": "Fruit",
+    "prod_pack": 1
+   
+},
+{
+    "prod_name": "Banana8",
+    "prod_desc": "กล้วยไข่",
+    "prod_price": 8,
+    "prod_brand": "CP",
+    "prod_type": "Fruit",
+    "prod_pack": 1
+},
+{
+    "prod_name": "Banana9",
+    "prod_desc": "กล้วยไข่",
+    "prod_price": 8,
+    "prod_brand": "CP",
+    "prod_type": "Fruit",
+    "prod_pack": 1
+   
+},
+{
+    "prod_name": "Banana10",
+    "prod_desc": "กล้วยไข่",
+    "prod_price": 8,
+    "prod_brand": "CP",
+    "prod_type": "Fruit",
+    "prod_pack": 1
+},
+{
+    "prod_name": "Banana11",
+    "prod_desc": "กล้วยไข่",
+    "prod_price": 8,
+    "prod_brand": "CP",
+    "prod_type": "Fruit",
+    "prod_pack": 1
+   
+},
+{
+    "prod_name": "Banana12",
+    "prod_desc": "กล้วยไข่",
+    "prod_price": 8,
+    "prod_brand": "CP",
+    "prod_type": "Fruit",
+    "prod_pack": 1
+},
+{
+    "prod_name": "Banana13",
+    "prod_desc": "กล้วยไข่",
+    "prod_price": 8,
+    "prod_brand": "CP",
+    "prod_type": "Fruit",
+    "prod_pack": 1
+   
+},
+{
+    "prod_name": "Banana14",
+    "prod_desc": "กล้วยไข่",
+    "prod_price": 8,
+    "prod_brand": "CP",
+    "prod_type": "Fruit",
+    "prod_pack": 1
+}
+]
